@@ -14,16 +14,16 @@
       <![CDATA[Based on the details you've entered, we're unable to give you an estimate of your borrowing power with this calculator. For questions, call us on 1800 035 500.]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-01-14T14:38:11 IST" name="Suite" finished-at="2022-01-14T14:39:42 IST" duration-ms="91257">
+  <suite started-at="2022-01-14T14:55:36 IST" name="Suite" finished-at="2022-01-14T14:56:23 IST" duration-ms="47731">
     <groups>
     </groups>
-    <test started-at="2022-01-14T14:38:11 IST" name="Test" finished-at="2022-01-14T14:39:42 IST" duration-ms="91257">
+    <test started-at="2022-01-14T14:55:36 IST" name="Test" finished-at="2022-01-14T14:56:23 IST" duration-ms="47731">
       <class name="scripts.Execute_PersonalHomeLoans">
-        <test-method is-config="true" signature="Lauch_Browser()[pri:0, instance:scripts.Execute_PersonalHomeLoans@49dc7102]" started-at="2022-01-14T14:38:11 IST" name="Lauch_Browser" finished-at="2022-01-14T14:39:20 IST" duration-ms="69552" status="PASS">
+        <test-method is-config="true" signature="Lauch_Browser()[pri:0, instance:scripts.Execute_PersonalHomeLoans@49dc7102]" started-at="2022-01-14T14:55:36 IST" name="Lauch_Browser" finished-at="2022-01-14T14:56:02 IST" duration-ms="25974" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Lauch_Browser -->
-        <test-method signature="test_Execute_PersonalHomeLoans()[pri:0, instance:scripts.Execute_PersonalHomeLoans@49dc7102]" started-at="2022-01-14T14:39:20 IST" name="test_Execute_PersonalHomeLoans" finished-at="2022-01-14T14:39:41 IST" duration-ms="20797" status="PASS">
+        <test-method signature="test_Execute_PersonalHomeLoans()[pri:0, instance:scripts.Execute_PersonalHomeLoans@49dc7102]" started-at="2022-01-14T14:56:02 IST" name="test_Execute_PersonalHomeLoans" finished-at="2022-01-14T14:56:22 IST" duration-ms="20775" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application Type 'Single' is selected]]>
@@ -39,7 +39,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- test_Execute_PersonalHomeLoans -->
-        <test-method is-config="true" signature="close_Browser()[pri:0, instance:scripts.Execute_PersonalHomeLoans@49dc7102]" started-at="2022-01-14T14:39:41 IST" name="close_Browser" finished-at="2022-01-14T14:39:42 IST" duration-ms="830" status="PASS">
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:scripts.Execute_PersonalHomeLoans@49dc7102]" started-at="2022-01-14T14:56:22 IST" name="close_Browser" finished-at="2022-01-14T14:56:23 IST" duration-ms="920" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_Browser -->
